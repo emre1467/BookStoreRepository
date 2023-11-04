@@ -1,0 +1,2 @@
+﻿global using BookShoppingCartMvcUI.Data;
+
